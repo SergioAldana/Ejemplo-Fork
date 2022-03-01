@@ -1,3 +1,0 @@
-C:/Users/Maestro/Desktop/Bloques Piezas de Conocimiento/Sistemas Distribuidos/Ejemplo-Fork/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Maestro/Desktop/Bloques Piezas de Conocimiento/Sistemas Distribuidos/Ejemplo-Fork/cmake-build-debug/CMakeFiles/untitled.dir
-C:/Users/Maestro/Desktop/Bloques Piezas de Conocimiento/Sistemas Distribuidos/Ejemplo-Fork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
